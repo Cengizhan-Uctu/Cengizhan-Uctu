@@ -1,5 +1,12 @@
 ### Hi there 👋
 ![Cengizhan's github stats](https://github-readme-stats.vercel.app/api?username=Cengizhan-Uctu&show_icons=true)
+### Connect with me
+
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="asdasd" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][in]
+
+[gmail]: mailto:pesengizem@gmail.com
+[in]: https://www.linkedin.com/in/gizem-pesen-ba399218b/
 
 
 <!--

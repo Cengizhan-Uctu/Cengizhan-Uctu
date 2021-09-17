@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Cengizhan's github stats](https://github-readme-stats.vercel.app/api?username=Cengizhan-Uctu&show_icons=true)
+
 
 <!--
 **Cengizhan-Uctu/Cengizhan-Uctu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
